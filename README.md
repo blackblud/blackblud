@@ -1,9 +1,9 @@
-Hi, I am Yurii Bezsmolnyi, from Lviv 🇺🇦  
-💪🏼 Front-end Developer for more than 1.5 years.  
-💫 I have developed 5+ web projects for myself and the university.  
-👀 I am interested in projects with good ideas and designs and also cryptocurrencies.  
-
-🎯 My goal for the next two years is to gain commercial experience developing React applications as a front-end developer.
+Full Stack Developer from Lviv, Ukraine
+4+ years of experience in React and Node.js
+💫 Worked on 8+ challenging projects across FinTech, Healthcare, and Telecom domains
+👀 Focused on creating and delivering products from ideas to successful outcomes
+🔗 Experienced in building modern web solutions and blockchain technologies
+✨ Also, develop personal projects to explore new tools and improve skills
 
 GitLab - https://gitlab.com/blackblud  
 CV - https://blackblud.notion.site/Yurii-Bezsmolnyi-Web-Developer-ca9571b31ec74175aebf7a2f855fe276
