@@ -1,5 +1,5 @@
 Full Stack Developer from Lviv, Ukraine
-4+ years of experience in React and Node.js
+6+ years of experience in React and Node.js
 💫 Worked on 8+ challenging projects across FinTech, Healthcare, and Telecom domains
 👀 Focused on creating and delivering products from ideas to successful outcomes
 🔗 Experienced in building modern web solutions and blockchain technologies
